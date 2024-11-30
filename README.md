@@ -1,2 +1,2 @@
-# Awesome-ESG
-Awesome ESG
+# Awesome ESG
+{Awesome Works in Progress}
